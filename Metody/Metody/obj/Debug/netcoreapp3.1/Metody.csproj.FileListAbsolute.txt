@@ -1,0 +1,11 @@
+C:\Users\Marcin\Desktop\Metody\Metody\bin\Debug\netcoreapp3.1\Metody.exe
+C:\Users\Marcin\Desktop\Metody\Metody\bin\Debug\netcoreapp3.1\Metody.deps.json
+C:\Users\Marcin\Desktop\Metody\Metody\bin\Debug\netcoreapp3.1\Metody.runtimeconfig.json
+C:\Users\Marcin\Desktop\Metody\Metody\bin\Debug\netcoreapp3.1\Metody.runtimeconfig.dev.json
+C:\Users\Marcin\Desktop\Metody\Metody\bin\Debug\netcoreapp3.1\Metody.dll
+C:\Users\Marcin\Desktop\Metody\Metody\bin\Debug\netcoreapp3.1\Metody.pdb
+C:\Users\Marcin\Desktop\Metody\Metody\obj\Debug\netcoreapp3.1\Metody.csprojAssemblyReference.cache
+C:\Users\Marcin\Desktop\Metody\Metody\obj\Debug\netcoreapp3.1\Metody.AssemblyInfoInputs.cache
+C:\Users\Marcin\Desktop\Metody\Metody\obj\Debug\netcoreapp3.1\Metody.AssemblyInfo.cs
+C:\Users\Marcin\Desktop\Metody\Metody\obj\Debug\netcoreapp3.1\Metody.dll
+C:\Users\Marcin\Desktop\Metody\Metody\obj\Debug\netcoreapp3.1\Metody.pdb
